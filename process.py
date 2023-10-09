@@ -27,4 +27,3 @@ def guess(string, reference):
         else:
             result.append('wrong')
     return result
-    
